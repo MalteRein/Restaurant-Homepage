@@ -10,10 +10,9 @@ Willkommen bei [Restaurant-Name]! Wir bieten dir eine einzigartige Auswahl an k�
 
 **📍 Besuche uns**
 
-📌 Adresse: [Straße, PLZ, Stadt]
-
-📆 Öffnungszeiten: [Tage & Uhrzeiten]
-📞 Reservierung: [Telefonnummer]
+📌 Adresse:
+📆 Öffnungszeiten:
+📞 Reservierung:
 
 👉 [Jetzt Tisch reservieren]()
 
