@@ -1,0 +1,18 @@
+/* ------------------ ROOT VARIABLES ------------------ */
+:root {
+    --color-background: black;
+}
+
+/* ================== DEFAULT SETTINGS ================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ================== NAVBAR SETTINGS ================== */
+
+
+
+
+/* ================== FOOTER SETTINGS ================== */
